@@ -35,14 +35,10 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" height="18" />    
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" height="18" />
   <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" height="18" />
-  <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.svg" height="18" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/Cib-next-js_%28CoreUI_Icons_v1.0.0%29.svg" height="18" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" height="18" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" height="18" />
   <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" height="18" />
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/expressjs.svg" height="18" />
-  <img src="https://docs.nestjs.com/assets/logo-small.svg" height="18" />
-  <img src="https://telegraf.js.org/media/logo.svg" height="18" />
   <img src="https://cdn.freebiesupply.com/logos/large/2x/linux-tux-1-logo-png-transparent.png" height="18" />
   <img src="images/icons/mongo.svg" height="18"/>
   <img src="https://mariadb.com/wp-content/uploads/2019/11/mariadb-logo-vertical_blue.svg" height="18"/>
