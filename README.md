@@ -5,11 +5,12 @@
   <a href="https://www.linkedin.com/in/muhammad-syaiful-maulana-985376239"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg"></a>
 </p>
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=tfkhdyt.tfkhdyt" />
-  <a href="https://github.com/tfkhdyt"><img src="https://img.shields.io/github/followers/tfkhdyt?label=followers&style=social"/></a>
-  <a href='https://stackshare.io/tfkhdyt/mn3'>
+  <!-- <img src="https://visitor-badge.laobi.icu/badge?page_id=tfkhdyt.tfkhdyt" /> -->
+  <a href="https://github.com/Syaiful-Maulana"><img src="https://img.shields.io/github/followers/tfkhdyt?label=followers&style=social"/></a>
+  <!-- example stackshare -->
+  <!-- <a href='https://stackshare.io/tfkhdyt/mn3'>
     <img src='http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat' alt='StackShare' />
-  </a>
+  </a> -->
 </p>
 
 #### Junior Back-End JavaScript Developer - Informatics Student \*
@@ -49,5 +50,5 @@
 
 <span>
   <img src="images/icons/jquery.svg" height="18" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" height="18" />\
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" height="18" />
 </span>
