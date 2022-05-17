@@ -25,7 +25,7 @@
 - 🧍🏻‍♂️ `21` years old
 - 💻 `Informatics Engineering` Student at `Universitas Muria Kudus`
 - 🌟 Currently, `JavaScript` is my favorite programming language.
-- 👨🏻‍💻 Stack Developer (`MongoDB` and `Node.js`)
+- 👨🏻‍💻 MERN Stack Developer (`MongoDB`, `Express`,`React`, `Node.js`)
 - 🌏 Languages
   - 🇮🇩 Indonesian
   - 🇬🇧 English
